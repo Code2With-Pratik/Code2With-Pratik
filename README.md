@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Pratik and I'm a  Web Developer..., from India....</h1>
+<h1 align="center">Hey 👋! My name is Pratik and I'm a  Web Developer..., from India...and curious about learning new skills and technology.</h1>
 
 ###
 
