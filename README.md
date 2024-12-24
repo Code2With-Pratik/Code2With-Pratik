@@ -62,5 +62,9 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/snake.svg" alt="Snake animation" />
+ <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 
 ###
