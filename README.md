@@ -66,4 +66,9 @@
 
 <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img  src="https://github.com/Code2With-Pratik/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
+
 ###
