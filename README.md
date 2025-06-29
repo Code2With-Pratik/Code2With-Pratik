@@ -97,6 +97,11 @@
   <img src="https://streak-stats.demolab.com?user=Code2With-Pratik&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code2With-Pratik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Code2With-Pratik&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    ## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikasdewan&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 </div>
 
 ###
