@@ -84,8 +84,3 @@
 
 ###
 
-<audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="https://cdnsongs.com/music/data/Punjabi/202305/Still_Rollin/128/Dior.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
