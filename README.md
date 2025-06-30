@@ -74,7 +74,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/snake-contribution-graph.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/snake.svg" alt="Snake animation" />
 
 ###
 
