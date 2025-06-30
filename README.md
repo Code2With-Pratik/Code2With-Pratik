@@ -3,10 +3,18 @@
 </div>
 
 ###
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology.</h1>
 
 ###
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/ohh_its_pratik" target="_blank">
@@ -20,6 +28,10 @@
 </div>
 
 ###
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -58,6 +70,10 @@
 </div>
 
 ###
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code2With-Pratik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -67,6 +83,10 @@
 </div>
 
 ###
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <br clear="both">
 
@@ -75,6 +95,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
 </picture>
+<!-- Coloured Lines -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ###
 
