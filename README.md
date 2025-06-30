@@ -83,3 +83,108 @@
 </div>
 
 ###
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Music Card</title>
+  <style>
+  body {
+    background-color: #0d0d0d;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .music-card {
+    background-color: #1b1b1b;
+    color: #f3bebe;
+    border: 1px solid #555;
+    border-radius: 10px;
+    padding: 20px;
+    width: 350px;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(255, 192, 203, 0.1);
+  }
+
+  .music-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+
+  .music-card h3 {
+    margin: 10px 0 5px;
+    font-size: 22px;
+    font-weight: 600;
+  }
+
+  .music-card p {
+    margin: 0 0 15px;
+    font-size: 16px;
+    opacity: 0.8;
+  }
+
+  .wave {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 30px;
+    margin: 15px 0;
+  }
+
+  .wave span {
+    display: inline-block;
+    width: 4px;
+    height: 10px;
+    margin: 0 1px;
+    background: linear-gradient(180deg, #f46b45, #eea849);
+    animation: pulse 1.2s infinite ease-in-out;
+  }
+
+  .wave span:nth-child(2) { animation-delay: 0.1s; }
+  .wave span:nth-child(3) { animation-delay: 0.2s; }
+  .wave span:nth-child(4) { animation-delay: 0.3s; }
+  .wave span:nth-child(5) { animation-delay: 0.4s; }
+  .wave span:nth-child(6) { animation-delay: 0.5s; }
+  .wave span:nth-child(7) { animation-delay: 0.6s; }
+  .wave span:nth-child(8) { animation-delay: 0.7s; }
+
+  @keyframes pulse {
+    0%, 100% { height: 10px; opacity: 0.4; }
+    50% { height: 25px; opacity: 1; }
+  }
+
+  audio {
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+  </style>
+</head>
+<body>
+
+  <div class="music-card">
+    <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Aurora Night Cover" />
+    <h3>Aurora Night</h3>
+    <p>1310</p>
+
+  <div class="wave">
+    <span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span>
+  </div>
+
+  <audio controls>
+    <source src="https://cdnsongs.com/music/data/Punjabi/202305/Still_Rollin/128/Dior.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  </div>
+
+</body>
+</html>
+
