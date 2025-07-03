@@ -78,6 +78,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code2With-Pratik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Code2With-Pratik&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Code2With-Pratik" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Code2With-Pratik&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code2With-Pratik&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
 </div>
