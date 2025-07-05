@@ -9,6 +9,7 @@
 </h3>
 
 <h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology.</h1>
+<h1 align="center">Currently I am learning DSA in JAVA <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /> </h1>
 
 ###
 <!-- Coloured Lines -->
