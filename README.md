@@ -11,6 +11,8 @@
 <h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology.</h1>
 <h1 align="center">Currently I am learning DSA in JAVA <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  /> </h1>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="120" alt="streak graph"  />
+
 ###
 <!-- Coloured Lines -->
 <h3 align="center">
@@ -78,7 +80,6 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code2With-Pratik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="280" alt="languages graph"  /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="120" alt="streak graph"  />
 <img src="https://github-profile-trophy.vercel.app?username=Code2With-Pratik&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code2With-Pratik&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
 </div>
