@@ -9,7 +9,7 @@
 </h3>
 
 <h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology.</h1>
-<h1 align="center" margin-bottom: 25px;>Currently I am learning DSA in JAVA <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  /> </h1>
+<h1 align="center" margin-bottom: 85px;>Currently I am learning DSA in JAVA <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  /> </h1>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="220" alt="streak graph"  />
