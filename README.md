@@ -12,7 +12,7 @@
 <h1 align="center">Currently I am learning DSA in JAVA <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  /> </h1>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="120" alt="streak graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="180" alt="streak graph"  />
 </div>
 
 ###
