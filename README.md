@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <img height="280" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png"  /> -->
-  <img height="280" src="https://github.com/Code2With-Pratik/Code2With-Pratik/blob/main/banner%20image.jpg?raw=true"  />
+  <img height="280" width="300" src="https://github.com/Code2With-Pratik/Code2With-Pratik/blob/main/banner%20image.jpg?raw=true"  />
 </div>
 
 ###
