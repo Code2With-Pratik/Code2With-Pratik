@@ -110,8 +110,9 @@
 ####
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31h444r3sxhy2jeptite2pvo5pte)
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31h444r3sxhy2jeptite2pvo5pte&count={count})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31h444r3sxhy2jeptite2pvo5pte&count=5)
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31h444r3sxhy2jeptite2pvo5pte&unique=true)
   
 </div>
 
