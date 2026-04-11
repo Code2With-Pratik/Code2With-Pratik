@@ -109,9 +109,9 @@
 
 ####
 
-&nbsp;<div align="center">
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31h444r3sxhy2jeptite2pvo5pte&cover_image=true&theme=novatorem) 
-</div>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h444r3sxhy2jeptite2pvo5pte" />
+</p>
 
 ####
 <!-- Coloured Lines -->
