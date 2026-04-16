@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology.</h1>
+<h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology..</h1>
 <h1 align="center">Currently I am learning DSA in JAVA.<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  /> </h1>
 
 <div align="center">
