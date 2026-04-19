@@ -8,19 +8,9 @@
 </h3>
 
 <h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology..</h1>
-<h1 align="center">Currently I am learning DSA in JAVA.<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo"  /> </h1>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="220" alt="streak graph"  />
-</div>
-
-####
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<div align="center">
-  <a href="https://www.instagram.com/ohh_its_pratik" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo" /></a> <img width="12" /> <a href="https://www.linkedin.com/in/pratik-dhandare-354b7730a/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo" /></a> <img width="12" /> <a href="https://discord.com/channels/1386289679141437440/1386289679883698348" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo" /></a> <img width="12" /> <a href="https://x.com/ohh_its_pratik" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo" /></a>
 </div>
 
 ####
@@ -37,15 +27,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code2With-Pratik&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
-</div>
-
-####
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
 <br clear="both">
 
 <picture>
@@ -53,17 +34,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
 </picture>
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-####
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h444r3sxhy2jeptite2pvo5pte" />
-</p>
-
-####
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
