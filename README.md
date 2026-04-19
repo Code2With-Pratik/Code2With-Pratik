@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png"  />
+  <img width="100%" height="400" src="https://github.com/Code2With-Pratik/Code2With-Pratik/blob/main/Banner.gif"  />
 </div>
 
 ####
@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h1 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology..</h1>
+<h2 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology..</h1>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="220" alt="streak graph"  />
