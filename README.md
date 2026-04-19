@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="400" src="https://github.com/Code2With-Pratik/Code2With-Pratik/blob/main/Banner.gif"  />
+  <img width="100%" height="400" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/refs/heads/main/Banner.gif"  />
 </div>
 
 ####
