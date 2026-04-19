@@ -22,7 +22,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          # ADD THESE TWO LINES BELOW:
+          svg_out_path: dist/pacman-contribution-graph.svg
+          dark_svg_out_path: dist/pacman-contribution-graph-dark.svg
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
