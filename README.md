@@ -36,16 +36,19 @@
           <img src="./images/Screenshot_1.png" alt="Aura UI" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <!-- Using a Badge for a guaranteed yellow title with no link emoji -->
-        <img src="https://img.shields.io/badge/👉_Aura_UI_👈-f1ff59?style=flat-square&labelColor=black" alt="Aura UI title">
+        <!-- Wrapping the badge in an <a> tag makes the title clickable -->
+        <a href="https://aura-ui-os.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Aura_UI-f1ff59?style=for-the-badge&logo=react&logoColor=black&labelColor=f1ff59&color=black" alt="Aura UI title">
+        </a>
       </td>
       <td align="center">
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
           <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <!-- Using a Badge for orange title -->
-        <img src="https://img.shields.io/badge/👉_MacOS_Portfolio_👈-orange?style=flat-square&labelColor=black" alt="MacOS Portfolio title">
+        <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/MacOS_Portfolio-orange?style=for-the-badge&logo=apple&logoColor=black&labelColor=orange&color=black" alt="MacOS Portfolio title">
+        </a>
       </td>
     </tr>
     <tr>
@@ -54,14 +57,18 @@
           <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <img src="https://img.shields.io/badge/👉_GrandStay_Hotel_Booking_👈-white?style=flat-square&labelColor=black" alt="GrandStay title">
+        <a href="https://grandstay.kesug.com/" target="_blank">
+          <img src="https://img.shields.io/badge/GrandStay_Booking-white?style=for-the-badge&logo=google-home&logoColor=black&labelColor=white&color=black" alt="GrandStay title">
+        </a>
       </td>
       <td align="center">
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
           <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <img src="https://img.shields.io/badge/👉_NexaOne_AI_👈-pink?style=flat-square&labelColor=black" alt="NexaOne title">
+        <a href="https://nexaone-ai.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/NexaOne_AI-pink?style=for-the-badge&logo=openai&logoColor=black&labelColor=pink&color=black" alt="NexaOne title">
+        </a>
       </td>
     </tr>
   </table>
