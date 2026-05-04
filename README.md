@@ -31,43 +31,47 @@
   <h2>My Projects</h2>
   <table align="center" style="margin:auto;">
     <tr>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://aura-ui-os.vercel.app/" target="_blank">
           <img src="./images/Screenshot_1.png" alt="Aura UI" width="420" style="border-radius:12px;" />
         </a>
         <br />
         <a href="https://aura-ui-os.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/AURA_UI-f1ff59?style=for-the-badge&logo=react&logoColor=black&labelColor=black&color=f1ff59" alt="Aura UI">
+          <img src="https://img.shields.io/badge/AURA_UI-f1ff59?style=for-the-badge&logo=react&logoColor=black&labelColor=f1ff59&color=black" alt="Aura UI">
         </a>
+        <p><i>A high-performance React component library focusing on glassmorphism and complex motion.</i></p>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
           <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="420" style="border-radius:12px;" />
         </a>
         <br />
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/MACOS_PORTFOLIO-orange?style=for-the-badge&logo=apple&logoColor=black&labelColor=black&color=orange" alt="MacOS Portfolio">
+          <img src="https://img.shields.io/badge/MACOS_PORTFOLIO-orange?style=for-the-badge&logo=apple&logoColor=black&labelColor=orange&color=black" alt="MacOS Portfolio">
         </a>
+        <p><i>A functional macOS-inspired web OS featuring a custom Xcode-style editor and interactive Dock.</i></p>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://grandstay.kesug.com/" target="_blank">
           <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="420" style="border-radius:12px;" />
         </a>
         <br />
         <a href="https://grandstay.kesug.com/" target="_blank">
-          <img src="https://img.shields.io/badge/GRANDSTAY_BOOKING-white?style=for-the-badge&logo=google-home&logoColor=black&labelColor=black&color=white" alt="GrandStay">
+          <img src="https://img.shields.io/badge/GRANDSTAY_BOOKING-white?style=for-the-badge&logo=google-home&logoColor=black&labelColor=white&color=black" alt="GrandStay">
         </a>
+        <p><i>A full-stack hospitality platform with real-time availability and responsive booking controls.</i></p>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
           <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="420" style="border-radius:12px;" />
         </a>
         <br />
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/NEXAONE_AI-pink?style=for-the-badge&logo=openai&logoColor=black&labelColor=black&color=pink" alt="NexaOne AI">
+          <img src="https://img.shields.io/badge/NEXAONE_AI-pink?style=for-the-badge&logo=openai&logoColor=black&labelColor=pink&color=black" alt="NexaOne AI">
         </a>
+        <p><i>An AI-driven workspace utilizing Generative AI for real-time content synthesis and creative tasks.</i></p>
       </td>
     </tr>
   </table>
