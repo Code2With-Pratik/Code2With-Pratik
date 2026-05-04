@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="400" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/refs/heads/main/Banner.gif"  />
+  <img width="100%" height="400" src="./images/Banner.gif"  />
 </div>
 
 ####
@@ -27,6 +27,16 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+<div align="center">
+  <h2>App Screenshots</h2>
+  <div style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;max-width:900px;margin:auto;">
+    <img src="./images/Screenshot_1.png" alt="Screenshot 1" style="width:100%;height:auto;border-radius:12px;" />
+    <img src="./images/Screenshot_2.png" alt="Screenshot 2" style="width:100%;height:auto;border-radius:12px;" />
+    <img src="./images/Screenshot_3.png" alt="Screenshot 3" style="width:100%;height:auto;border-radius:12px;" />
+    <img src="./images/Screenshot_4.png" alt="Screenshot 4" style="width:100%;height:auto;border-radius:12px;" />
+  </div>
+</div>
+
 <br clear="both">
 
 <picture>
@@ -34,3 +44,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
 </picture>
+
