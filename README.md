@@ -34,13 +34,13 @@
       <td style="padding:8px; vertical-align:top; text-align:center;">
         <figure style="margin:0;text-align:center;">
           <img src="./images/Screenshot_1.png" alt="Aura UI" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;"><a href="https://aura-ui-os.vercel.app/" target="_blank" rel="noreferrer"><span style="color:#f1ff59;text-decoration:none;">👉 Aura UI 👈</span></a></figcaption>
+          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:#f1ff59;"><a href="https://aura-ui-os.vercel.app/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 Aura UI 👈</span></a></figcaption>
         </figure>
       </td>
       <td style="padding:8px; vertical-align:top; text-align:center;">
         <figure style="margin:0;text-align:center;">
           <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;"><a href="https://ios-macos-portfolio.vercel.app/" target="_blank" rel="noreferrer"><span style="color:orange;text-decoration:none;">👉 MacOS Portfolio 👈</span></a></figcaption>
+          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:orange;"><a href="https://ios-macos-portfolio.vercel.app/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 MacOS Portfolio 👈</span></a></figcaption>
         </figure>
       </td>
     </tr>
@@ -48,13 +48,13 @@
       <td style="padding:8px; vertical-align:top; text-align:center;">
         <figure style="margin:0;text-align:center;">
           <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;"><a href="https://grandstay.kesug.com/" target="_blank" rel="noreferrer"><span style="color:#f8f8f2;text-decoration:none;">👉 GrandStay Hotel Booking 👈</span></a></figcaption>
+          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:#f8f8f2;"><a href="https://grandstay.kesug.com/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 GrandStay Hotel Booking 👈</span></a></figcaption>
         </figure>
       </td>
       <td style="padding:8px; vertical-align:top; text-align:center;">
         <figure style="margin:0;text-align:center;">
           <img src="./images/Screenshot_4.png" alt="NexaOne AI" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;"><a href="https://nexaone-ai.onrender.com/" target="_blank" rel="noreferrer"><span style="color:pink;text-decoration:none;">👉 NexaOne AI 👈</span></a></figcaption>
+          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:pink;"><a href="https://nexaone-ai.onrender.com/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 NexaOne AI 👈</span></a></figcaption>
         </figure>
       </td>
     </tr>
