@@ -29,12 +29,16 @@
 
 <div align="center">
   <h2>App Screenshots</h2>
-  <div style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;max-width:900px;margin:auto;">
-    <img src="./images/Screenshot_1.png" alt="Screenshot 1" style="width:100%;height:auto;border-radius:12px;" />
-    <img src="./images/Screenshot_2.png" alt="Screenshot 2" style="width:100%;height:auto;border-radius:12px;" />
-    <img src="./images/Screenshot_3.png" alt="Screenshot 3" style="width:100%;height:auto;border-radius:12px;" />
-    <img src="./images/Screenshot_4.png" alt="Screenshot 4" style="width:100%;height:auto;border-radius:12px;" />
-  </div>
+  <table style="margin:auto; border-collapse:collapse;">
+    <tr>
+      <td style="padding:8px;"><img src="./images/Screenshot_1.png" alt="Screenshot 1" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
+      <td style="padding:8px;"><img src="./images/Screenshot_2.png" alt="Screenshot 2" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
+    </tr>
+    <tr>
+      <td style="padding:8px;"><img src="./images/Screenshot_3.png" alt="Screenshot 3" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
+      <td style="padding:8px;"><img src="./images/Screenshot_4.png" alt="Screenshot 4" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
+    </tr>
+  </table>
 </div>
 
 <br clear="both">
