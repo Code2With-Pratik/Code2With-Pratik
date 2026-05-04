@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" height="400" src="./images/Banner.gif"  />
+  <!-- Fixed Banner with Absolute Path -->
+  <img width="100%" height="400" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Banner.gif" />
 </div>
 
 ####
@@ -7,10 +8,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h2 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology..</h1>
+<h2 align="center">Hey 👋! My name is Pratik and I'm a Web Developer..., from India...and curious about learning new skills and technology..</h2>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="220" alt="streak graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Code2With-Pratik&theme=radical&hide_border=false" height="220" alt="streak graph" />
 </div>
 
 ####
@@ -36,7 +37,7 @@
         <a href="https://aura-ui-os.vercel.app/" target="_blank">
           <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_1.png" alt="Aura UI" width="95%" style="border-radius:12px;" />
         </a>
-        <br /><br />
+        <br />
         <b>Aura UI</b>
         <p><i>React library for glassmorphism and motion. Built for Next.js and Tailwind v4.</i></p>
       </td>
@@ -45,9 +46,9 @@
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
           <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_2.png" alt="MacOS Portfolio" width="95%" style="border-radius:12px;" />
         </a>
-        <br /><br />
+        <br />
         <b>MacOS Portfolio</b>
-        <p><i>Web-based OS with functional Xcode IDE, window management, and system apps.</i></p>
+        <p><i>Web-based OS with Xcode IDE and window management.</i></p>
       </td>
     </tr>
     <tr>
@@ -56,18 +57,18 @@
         <a href="https://grandstay.kesug.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="95%" style="border-radius:12px;" />
         </a>
-        <br /><br />
+        <br />
         <b>GrandStay Booking</b>
-        <p><i>Full-stack hospitality platform with real-time booking and responsive UI.</i></p>
+        <p><i>Full-stack hospitality platform with real-time booking.</i></p>
       </td>
       <!-- NexaOne AI -->
       <td align="center" valign="top" width="50%">
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_4.png" alt="NexaOne AI" width="95%" style="border-radius:12px;" />
         </a>
-        <br /><br />
+        <br />
         <b>NexaOne AI</b>
-        <p><i>AI-powered workspace utilizing Generative AI for real-time content synthesis.</i></p>
+        <p><i>AI workspace for real-time content synthesis.</i></p>
       </td>
     </tr>
   </table>
@@ -79,4 +80,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
 </picture>
-
