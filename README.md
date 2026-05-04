@@ -29,41 +29,45 @@
 
 <div align="center">
   <h2>My Projects</h2>
-  <table align="center" style="margin:auto;">
+  <table align="center" width="100%" style="margin:auto; table-layout:fixed;">
     <tr>
-      <td align="center" valign="top">
+      <!-- Column 1 -->
+      <td align="center" valign="top" width="50%">
         <a href="https://aura-ui-os.vercel.app/" target="_blank">
-          <img src="./images/Screenshot_1.png" alt="Aura UI" width="420" style="border-radius:12px;" />
+          <img src="./images/Screenshot_1.png" alt="Aura UI" width="95%" style="border-radius:12px;" />
         </a>
-        <br />
+        <br /><br />
         <b>Aura UI</b>
-        <p><i>~A macOS-inspired component system for teams who care about depth, motion, and the quiet details. Built for Next.js and Tailwind v4.</i></p>
+        <p><i>React library for glassmorphism and motion. Built for Next.js and Tailwind v4.</i></p>
       </td>
-      <td align="center" valign="top">
+      <!-- Column 2 -->
+      <td align="center" valign="top" width="50%">
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
-          <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="420" style="border-radius:12px;" />
+          <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="95%" style="border-radius:12px;" />
         </a>
-        <br />
+        <br /><br />
         <b>MacOS Portfolio</b>
-        <p><i>~ A functional macOS-inspired web OS featuring a custom Xcode-style editor and interactive Dock.</i></p>
+        <p><i>Web-based OS with functional Xcode IDE, window management, and system apps.</i></p>
       </td>
     </tr>
     <tr>
-      <td align="center" valign="top">
+      <!-- Column 3 -->
+      <td align="center" valign="top" width="50%">
         <a href="https://grandstay.kesug.com/" target="_blank">
-          <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="420" style="border-radius:12px;" />
+          <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="95%" style="border-radius:12px;" />
         </a>
-        <br />
-        <b>GrandStay Hotel Booking</b>
-        <p><i>~ A full-stack hospitality platform with real-time availability and responsive booking controls.</i></p>
+        <br /><br />
+        <b>GrandStay Booking</b>
+        <p><i>Full-stack hospitality platform with real-time booking and responsive UI.</i></p>
       </td>
-      <td align="center" valign="top">
+      <!-- Column 4 -->
+      <td align="center" valign="top" width="50%">
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
-          <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="420" style="border-radius:12px;" />
+          <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="95%" style="border-radius:12px;" />
         </a>
-        <br />
+        <br /><br />
         <b>NexaOne AI</b>
-        <p><i>~ An AI-driven workspace utilizing Generative AI for real-time content synthesis and creative tasks.</i></p>
+        <p><i>AI-powered workspace utilizing Generative AI for real-time content synthesis.</i></p>
       </td>
     </tr>
   </table>
