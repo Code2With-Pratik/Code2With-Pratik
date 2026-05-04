@@ -29,33 +29,37 @@
 
 <div align="center">
   <h2>My Projects</h2>
-  <table style="margin:auto; border-collapse:collapse;">
+  <table align="center" style="margin:auto;">
     <tr>
-      <td style="padding:8px; vertical-align:top; text-align:center;">
-        <figure style="margin:0;text-align:center;">
-          <img src="./images/Screenshot_1.png" alt="Aura UI" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:#f1ff59;"><a href="https://aura-ui-os.vercel.app/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 Aura UI 👈</span></a></figcaption>
-        </figure>
+      <td align="center">
+        <a href="https://aura-ui-os.vercel.app/" target="_blank">
+          <img src="./images/Screenshot_1.png" alt="Aura UI" width="420" style="border-radius:12px;" />
+          <br />
+          <strong>👉 Aura UI 👈</strong>
+        </a>
       </td>
-      <td style="padding:8px; vertical-align:top; text-align:center;">
-        <figure style="margin:0;text-align:center;">
-          <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:orange;"><a href="https://ios-macos-portfolio.vercel.app/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 MacOS Portfolio 👈</span></a></figcaption>
-        </figure>
+      <td align="center">
+        <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
+          <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="420" style="border-radius:12px;" />
+          <br />
+          <strong>👉 MacOS Portfolio 👈</strong>
+        </a>
       </td>
     </tr>
     <tr>
-      <td style="padding:8px; vertical-align:top; text-align:center;">
-        <figure style="margin:0;text-align:center;">
-          <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:#f8f8f2;"><a href="https://grandstay.kesug.com/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 GrandStay Hotel Booking 👈</span></a></figcaption>
-        </figure>
+      <td align="center">
+        <a href="https://grandstay.kesug.com/" target="_blank">
+          <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="420" style="border-radius:12px;" />
+          <br />
+          <strong>👉 GrandStay Hotel Booking 👈</strong>
+        </a>
       </td>
-      <td style="padding:8px; vertical-align:top; text-align:center;">
-        <figure style="margin:0;text-align:center;">
-          <img src="./images/Screenshot_4.png" alt="NexaOne AI" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
-          <figcaption style="margin-top:8px;font-weight:600;text-align:center;color:pink;"><a href="https://nexaone-ai.onrender.com/" target="_blank" rel="noreferrer" style="color:inherit;text-decoration:none;"><span style="color:inherit;">👉 NexaOne AI 👈</span></a></figcaption>
-        </figure>
+      <td align="center">
+        <a href="https://nexaone-ai.onrender.com/" target="_blank">
+          <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="420" style="border-radius:12px;" />
+          <br />
+          <strong>👉 NexaOne AI 👈</strong>
+        </a>
       </td>
     </tr>
   </table>
