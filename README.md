@@ -36,16 +36,16 @@
           <img src="./images/Screenshot_1.png" alt="Aura UI" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <!-- Using <font> to apply your original yellow color -->
-        <h3 align="center"><font color="#f1ff59">👉 Aura UI 👈</font></h3>
+        <!-- Using a Badge for a guaranteed yellow title with no link emoji -->
+        <img src="https://img.shields.io/badge/👉_Aura_UI_👈-f1ff59?style=flat-square&labelColor=black" alt="Aura UI title">
       </td>
       <td align="center">
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
           <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <!-- Using <font> to apply your original orange color -->
-        <h3 align="center"><font color="orange">👉 MacOS Portfolio 👈</font></h3>
+        <!-- Using a Badge for orange title -->
+        <img src="https://img.shields.io/badge/👉_MacOS_Portfolio_👈-orange?style=flat-square&labelColor=black" alt="MacOS Portfolio title">
       </td>
     </tr>
     <tr>
@@ -54,16 +54,14 @@
           <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <!-- Using <font> to apply white -->
-        <h3 align="center"><font color="#f8f8f2">👉 GrandStay Hotel Booking 👈</font></h3>
+        <img src="https://img.shields.io/badge/👉_GrandStay_Hotel_Booking_👈-white?style=flat-square&labelColor=black" alt="GrandStay title">
       </td>
       <td align="center">
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
           <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <!-- Using <font> to apply pink -->
-        <h3 align="center"><font color="pink">👉 NexaOne AI 👈</font></h3>
+        <img src="https://img.shields.io/badge/👉_NexaOne_AI_👈-pink?style=flat-square&labelColor=black" alt="NexaOne title">
       </td>
     </tr>
   </table>
