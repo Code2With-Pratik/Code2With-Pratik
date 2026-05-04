@@ -31,19 +31,19 @@
   <h2>My Projects</h2>
   <table align="center" width="100%" style="margin:auto; table-layout:fixed;">
     <tr>
-      <!-- Column 1 -->
+      <!-- Aura UI -->
       <td align="center" valign="top" width="50%">
         <a href="https://aura-ui-os.vercel.app/" target="_blank">
-          <img src="./images/Screenshot_1.png" alt="Aura UI" width="95%" style="border-radius:12px;" />
+          <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_1.png" alt="Aura UI" width="95%" style="border-radius:12px;" />
         </a>
         <br /><br />
         <b>Aura UI</b>
         <p><i>React library for glassmorphism and motion. Built for Next.js and Tailwind v4.</i></p>
       </td>
-      <!-- Column 2 -->
+      <!-- MacOS Portfolio -->
       <td align="center" valign="top" width="50%">
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
-          <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="95%" style="border-radius:12px;" />
+          <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_2.png" alt="MacOS Portfolio" width="95%" style="border-radius:12px;" />
         </a>
         <br /><br />
         <b>MacOS Portfolio</b>
@@ -51,19 +51,19 @@
       </td>
     </tr>
     <tr>
-      <!-- Column 3 -->
+      <!-- GrandStay -->
       <td align="center" valign="top" width="50%">
         <a href="https://grandstay.kesug.com/" target="_blank">
-          <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="95%" style="border-radius:12px;" />
+          <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="95%" style="border-radius:12px;" />
         </a>
         <br /><br />
         <b>GrandStay Booking</b>
         <p><i>Full-stack hospitality platform with real-time booking and responsive UI.</i></p>
       </td>
-      <!-- Column 4 -->
+      <!-- NexaOne AI -->
       <td align="center" valign="top" width="50%">
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
-          <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="95%" style="border-radius:12px;" />
+          <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_4.png" alt="NexaOne AI" width="95%" style="border-radius:12px;" />
         </a>
         <br /><br />
         <b>NexaOne AI</b>
