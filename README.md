@@ -31,12 +31,32 @@
   <h2>App Screenshots</h2>
   <table style="margin:auto; border-collapse:collapse;">
     <tr>
-      <td style="padding:8px;"><img src="./images/Screenshot_1.png" alt="Screenshot 1" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
-      <td style="padding:8px;"><img src="./images/Screenshot_2.png" alt="Screenshot 2" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
+      <td style="padding:8px; vertical-align:top; text-align:center;">
+        <figure style="margin:0;">
+          <img src="./images/Screenshot_1.png" alt="Aura UI" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
+          <figcaption style="margin-top:8px;font-weight:600;">Aura UI</figcaption>
+        </figure>
+      </td>
+      <td style="padding:8px; vertical-align:top; text-align:center;">
+        <figure style="margin:0;">
+          <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
+          <figcaption style="margin-top:8px;font-weight:600;">MacOS Portfolio</figcaption>
+        </figure>
+      </td>
     </tr>
     <tr>
-      <td style="padding:8px;"><img src="./images/Screenshot_3.png" alt="Screenshot 3" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
-      <td style="padding:8px;"><img src="./images/Screenshot_4.png" alt="Screenshot 4" style="width:100%;max-width:420px;height:auto;border-radius:12px;" /></td>
+      <td style="padding:8px; vertical-align:top; text-align:center;">
+        <figure style="margin:0;">
+          <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
+          <figcaption style="margin-top:8px;font-weight:600;">GrandStay Hotel Booking</figcaption>
+        </figure>
+      </td>
+      <td style="padding:8px; vertical-align:top; text-align:center;">
+        <figure style="margin:0;">
+          <img src="./images/Screenshot_4.png" alt="NexaOne AI" style="width:100%;max-width:420px;height:auto;border-radius:12px;" />
+          <figcaption style="margin-top:8px;font-weight:600;">NexaOne AI</figcaption>
+        </figure>
+      </td>
     </tr>
   </table>
 </div>
