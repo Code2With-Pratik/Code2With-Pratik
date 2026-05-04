@@ -36,9 +36,8 @@
           <img src="./images/Screenshot_1.png" alt="Aura UI" width="420" style="border-radius:12px;" />
         </a>
         <br />
-        <!-- Wrapping the badge in an <a> tag makes the title clickable -->
         <a href="https://aura-ui-os.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Aura_UI-f1ff59?style=for-the-badge&logo=react&logoColor=black&labelColor=f1ff59&color=black" alt="Aura UI title">
+          <img src="https://img.shields.io/badge/AURA_UI-f1ff59?style=for-the-badge&logo=react&logoColor=black&labelColor=black&color=f1ff59" alt="Aura UI">
         </a>
       </td>
       <td align="center">
@@ -47,7 +46,7 @@
         </a>
         <br />
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/MacOS_Portfolio-orange?style=for-the-badge&logo=apple&logoColor=black&labelColor=orange&color=black" alt="MacOS Portfolio title">
+          <img src="https://img.shields.io/badge/MACOS_PORTFOLIO-orange?style=for-the-badge&logo=apple&logoColor=black&labelColor=black&color=orange" alt="MacOS Portfolio">
         </a>
       </td>
     </tr>
@@ -58,7 +57,7 @@
         </a>
         <br />
         <a href="https://grandstay.kesug.com/" target="_blank">
-          <img src="https://img.shields.io/badge/GrandStay_Booking-white?style=for-the-badge&logo=google-home&logoColor=black&labelColor=white&color=black" alt="GrandStay title">
+          <img src="https://img.shields.io/badge/GRANDSTAY_BOOKING-white?style=for-the-badge&logo=google-home&logoColor=black&labelColor=black&color=white" alt="GrandStay">
         </a>
       </td>
       <td align="center">
@@ -67,7 +66,7 @@
         </a>
         <br />
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/NexaOne_AI-pink?style=for-the-badge&logo=openai&logoColor=black&labelColor=pink&color=black" alt="NexaOne title">
+          <img src="https://img.shields.io/badge/NEXAONE_AI-pink?style=for-the-badge&logo=openai&logoColor=black&labelColor=black&color=pink" alt="NexaOne AI">
         </a>
       </td>
     </tr>
