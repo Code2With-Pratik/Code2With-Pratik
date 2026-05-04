@@ -35,14 +35,14 @@
         <a href="https://aura-ui-os.vercel.app/" target="_blank">
           <img src="./images/Screenshot_1.png" alt="Aura UI" width="420" style="border-radius:12px;" />
           <br />
-          <strong>👉 Aura UI 👈</strong>
+          <h3 align="center">👉 Aura UI 👈</h3>
         </a>
       </td>
       <td align="center">
         <a href="https://ios-macos-portfolio.vercel.app/" target="_blank">
           <img src="./images/Screenshot_2.png" alt="MacOS Portfolio" width="420" style="border-radius:12px;" />
           <br />
-          <strong>👉 MacOS Portfolio 👈</strong>
+          <h3 align="center">👉 MacOS Portfolio 👈</h3>
         </a>
       </td>
     </tr>
@@ -51,14 +51,14 @@
         <a href="https://grandstay.kesug.com/" target="_blank">
           <img src="./images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="420" style="border-radius:12px;" />
           <br />
-          <strong>👉 GrandStay Hotel Booking 👈</strong>
+          <h3 align="center">👉 GrandStay Hotel Booking 👈</h3>
         </a>
       </td>
       <td align="center">
         <a href="https://nexaone-ai.onrender.com/" target="_blank">
           <img src="./images/Screenshot_4.png" alt="NexaOne AI" width="420" style="border-radius:12px;" />
           <br />
-          <strong>👉 NexaOne AI 👈</strong>
+          <h3 align="center">👉 NexaOne AI 👈</h3>
         </a>
       </td>
     </tr>
