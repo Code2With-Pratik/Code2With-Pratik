@@ -52,14 +52,14 @@
       </td>
     </tr>
     <tr>
-      <!-- GrandStay -->
+      <!-- Obsidian -->
       <td align="center" valign="top" width="50%">
         <a href="https://obsidian-safe-and-secure.onrender.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_3.png" alt="Obsidian Safe And Secure" width="95%" style="border-radius:12px;" />
         </a>
         <br />
-        <b>GrandStay Booking</b>
-        <p><i>Full-stack hospitality platform with real-time booking.</i></p>
+        <b>Obsidian Safe And Secure</b>
+        <p><i>Create, collaborate, connect, and store—everything in one place.</i></p>
       </td>
       <!-- NexaOne AI -->
       <td align="center" valign="top" width="50%">
