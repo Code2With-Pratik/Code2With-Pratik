@@ -54,8 +54,8 @@
     <tr>
       <!-- GrandStay -->
       <td align="center" valign="top" width="50%">
-        <a href="https://grandstay.kesug.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_3.png" alt="GrandStay Hotel Booking" width="95%" style="border-radius:12px;" />
+        <a href="https://obsidian-safe-and-secure.onrender.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/main/images/Screenshot_3.png" alt="Obsidian Safe And Secure" width="95%" style="border-radius:12px;" />
         </a>
         <br />
         <b>GrandStay Booking</b>
